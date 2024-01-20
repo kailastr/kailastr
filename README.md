@@ -128,7 +128,7 @@ Results-driven web developer dedicated to creating innovative and user-centric d
 
 ## 📊 My Github Stats
 
-  ![Kailas's most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NavasMuhammed&theme=dark)    [![Kailas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats) 
+  ![Kailas's most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kailastr&theme=dark)    [![Kailas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kailastr&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats) 
 
 
 ## 🔥 Streak Stats

@@ -1,8 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 ### <h1 align="center">Hi, I'm Kailas T R</h1>
 ## 🙋‍♂️ About Me
 
-Results-driven web developer dedicated to creating innovative and user-centric digital solutions, proficient in the latest web technologies and committed to delivering seamless online experiences
+Results-driven web developer dedicated to creating innovative and user-centric digital solutions, proficient in the latest web technologies, and committed to delivering seamless online experiences
 
 ## 🧰 My Tech Toolbox
 
@@ -37,8 +37,8 @@ Results-driven web developer dedicated to creating innovative and user-centric d
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="65" height="65" />
-      <br>JQuery
+        <img src="https://skillicons.dev/icons?i=php" alt="php" width="65" height="65" />
+      <br>Php
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma alt="figma" width="65" height="65" />
@@ -75,8 +75,8 @@ Results-driven web developer dedicated to creating innovative and user-centric d
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -85,23 +85,11 @@ Results-driven web developer dedicated to creating innovative and user-centric d
       <br>Python
     </td>
        <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
- <tr>
- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>Php
-    </td>
-     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
       <br>Express
     </td>
+  </tr>
+ <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -118,7 +106,7 @@ Results-driven web developer dedicated to creating innovative and user-centric d
  </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+## 🫱🏽‍🫲🏼 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kailastr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailastr" height="30" width="40" /></a>
 <a href="https://twitter.com/therealkailas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealkailas" height="30" width="40" /></a>

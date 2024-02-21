@@ -80,9 +80,9 @@ Results-driven web developer dedicated to creating innovative and user-centric d
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Postman
     </td>
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
@@ -90,10 +90,6 @@ Results-driven web developer dedicated to creating innovative and user-centric d
     </td>
   </tr>
  <tr>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotNet" />
       <br>.Net

@@ -2,7 +2,7 @@
 ### <h1 align="center">Hi, I'm Kailas T R</h1>
 ## 🙋‍♂️ About Me
 
-A Web developer using MERN stack and also using my tech toolbox things. And I love what I do 🥰
+I am a Web developer using MERN (MongoDB, Express.js, React.js, Node.js) stack and also using my tech toolbox things. And I love what I do 🥰
 
 ## 🧰 My Tech Toolbox
 

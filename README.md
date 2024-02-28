@@ -2,7 +2,7 @@
 ### <h1 align="center">Hi, I'm Kailas T R</h1>
 ## 🙋‍♂️ About Me
 
-Results-driven web developer dedicated to creating innovative and user-centric digital solutions, proficient in the latest web technologies, and committed to delivering seamless online experiences
+A Web developer using MERN stack and also using my tech toolbox things. And I love what I do 🥰
 
 ## 🧰 My Tech Toolbox
 

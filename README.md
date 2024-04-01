@@ -95,6 +95,10 @@ I am a Web developer using MERN (MongoDB, Express.js, React.js, Node.js) stack a
       <br>Node.js
     </td>
    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
     </td>

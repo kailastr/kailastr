@@ -75,14 +75,14 @@ I am a Web developer using MERN (MongoDB, Express.js, React.js, Node.js) stack a
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="NGINX" />
+      <br>NGINX
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       </a>
-      <br>Postman
+      <br>Docker
     </td>
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
@@ -90,11 +90,19 @@ I am a Web developer using MERN (MongoDB, Express.js, React.js, Node.js) stack a
     </td>
   </tr>
  <tr>
-            <td align="center" width="96">
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotNet" />
       <br>.Net
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="Csharp" />
       <br>C#
     </td>

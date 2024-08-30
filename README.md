@@ -85,11 +85,15 @@ MERN (MongoDB, Express.js, React.js, Node.js) stack Developer. Also, use my tech
       <br>Docker
     </td>
        <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>Express
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="express" />
+      <br>REST
     </td>
   </tr>
  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Node.js" />
+      <br>Express
+    </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
@@ -97,6 +101,14 @@ MERN (MongoDB, Express.js, React.js, Node.js) stack Developer. Also, use my tech
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
       <br>Redux
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Redux" />
+      <br>Laravel
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Redux" />
+      <br>Flutter
     </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />

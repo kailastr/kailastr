@@ -141,4 +141,4 @@ I develop in MERN, Flutter, and shopify..
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kailastr&border_radius=4.0)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=kailastr&theme=monokai-metallian&hide_border=true&cache_seconds=86400)
